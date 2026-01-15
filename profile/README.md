@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+CurseForge: https://www.curseforge.com/hytale/mods/kuksowarps
+
 <!--
 
 **Here are some ideas to get you started:**
