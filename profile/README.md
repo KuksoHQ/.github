@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-CurseForge: https://www.curseforge.com/hytale/mods/kuksowarps
+CurseForge: https://www.curseforge.com/members/devbd1/projects
 
 <!--
 
